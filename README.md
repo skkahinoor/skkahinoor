@@ -90,10 +90,6 @@ I focus on building **real-world, production-ready applications** that are scala
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skkahinoor&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skkahinoor&layout=compact&theme=tokyonight" />
 </p>
 
