@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skkahinoor&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=skkahinoor&label=Profile+Views&color=58A6FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/skkahinoor?label=Followers&style=flat&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/skkahinoor?label=Stars&style=flat&color=58A6FF" />
 </p>
 
 ---
@@ -30,14 +32,13 @@ I focus on building **real-world, production-ready applications** that are scala
 ✅ Bug Fixing & Performance Optimization  
 ✅ Deployment & Hosting Setup  
 
-> 💡 Perfect for startups, small businesses & founders.
+> 💡 Ideal for startups, founders & small businesses.
 
 ---
 
 ## 📄 Resume
 
 📌 **[Download Resume](https://drive.google.com/)**  
-*(Replace with your actual resume link)*
 
 ---
 
@@ -66,14 +67,6 @@ I focus on building **real-world, production-ready applications** that are scala
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skkahinoor&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 📘 BookHub
@@ -86,31 +79,11 @@ I focus on building **real-world, production-ready applications** that are scala
 - GitHub + Vercel Deployment
 - Clean UI with API integration
 
-🔗 *Explore repositories for more projects*
+🔗 *Explore repositories for more real-world projects*
 
 ---
 
-## 🖼️ Project Screenshots (Portfolio Style)
-
-> *(Add screenshots later by replacing image links)*
-
-<p align="center">
-  <img src="https://via.placeholder.com/350x200?text=Project+1" />
-  <img src="https://via.placeholder.com/350x200?text=Project+2" />
-</p>
-
----
-
-## 💬 What Clients / Teams Say
-
-> ⭐ “Reliable developer with strong Laravel skills and great debugging ability.”  
-> ⭐ “Understands requirements quickly and delivers clean code.”
-
-*(You can replace these with real testimonials later)*
-
----
-
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skkahinoor&show_icons=true&theme=tokyonight" />
@@ -131,9 +104,6 @@ I focus on building **real-world, production-ready applications** that are scala
 <p align="left">
 <a href="https://github.com/skkahinoor" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
